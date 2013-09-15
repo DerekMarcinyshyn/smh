@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img alt="<?php bloginfo('name'); ?>" src="/assets/img/logo-white-85x80.png" width="85" height="80"/></a>
     </div>
 
     <nav class="collapse navbar-collapse" role="navigation">
