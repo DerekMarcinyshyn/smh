@@ -16,7 +16,9 @@
           <p>530 Westside Road<br>
           PO Box 2968<br>
           Revelstoke, BC V0E 2S0<br>
-          <a href="mailto:info@smheli.com">info@smheli.com</a></p>
+          <a href="mailto:info@smheli.com">info@smheli.com</a><br>
+          GPS N 51 02.123 W 118 13.498<br>
+          Altitude 1550'</p>
         </div>
       </div>
       <div class="col-md-4">
