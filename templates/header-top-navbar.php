@@ -16,6 +16,8 @@
           wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav navbar-nav'));
         endif;
       ?>
+      <p class="navbar-text pull-right"><strong>250-837-2455</strong></p>
     </nav>
+    </div>
   </div>
 </header>
