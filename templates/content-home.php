@@ -6,7 +6,7 @@
  * @date    September 14, 2013
  */
 ?>
-<div id="smh-home-slider" class="carousel slide">
+<div id="smh-home-slider" class="carousel slide smh-home-slider">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#smh-home-slider" data-slide-to="0" class="active"></li>

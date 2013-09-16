@@ -29,7 +29,8 @@
 
     <div class="row">
       <div class="col-lg-12 copyright">
-        <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
+        <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>
+        <span class="pull-right">Site::<a href="http://monasheemountainmultimedia.com" title="Monashee Mountain Multimedia">MMM</a></span</p>
       </div>
     </div>
   </div>
