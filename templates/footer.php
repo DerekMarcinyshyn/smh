@@ -22,8 +22,8 @@
         </div>
       </div>
       <div class="col-md-4">
-        <span class="footer-phone">250-837-2455</span> <span class="footer-description">PHONE</span><br>
-        <span class="footer-fax">250-837-4066</span> <span class="footer-description">FAX</span><br>
+        <span class="footer-phone">1-250-837-2455</span> <span class="footer-description">PHONE</span><br>
+        <span class="footer-fax">1-250-837-4066</span> <span class="footer-description">FAX</span><br>
       </div>
     </div>
 
